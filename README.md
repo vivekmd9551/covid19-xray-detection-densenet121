@@ -144,7 +144,7 @@ Performance Evaluation
 │
 ├── 📄 COVID_19_Detection_using_X_Ray_Images.ipynb
 ├── 📄 README.md
-└── 📄 requirements.txt (Optional)
+└── 📄 requirements.txt 
 ```
 
 ---
